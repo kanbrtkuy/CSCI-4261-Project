@@ -141,7 +141,3 @@ if __name__ == '__main__':
     base_img.paste(image, box)
     base_img.show()
     base_img.save('output_emoji.png')#The output image
-    
-    #cv2.imshow('imgae', result)
-    
-    #cv2.waitKey(0)
