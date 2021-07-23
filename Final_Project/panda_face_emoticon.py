@@ -1,4 +1,8 @@
+# Link to gitlab repository: https://git.cs.dal.ca/hanwenz/csci_4261_hanwen_zhang/-/tree/master/Final_Project
+# You can clone the final project via: https://git.cs.dal.ca/hanwenz/csci_4261_hanwen_zhang.git
+# The idea of this code are come from: https://www.cnblogs.com/warcraft/p/10274889.html, https://blog.csdn.net/QuantumEntanglement/article/details/81491031
 # Please read ReadMe.txt carefully before running this code
+
 import sys
 import cv2
 import numpy as np
